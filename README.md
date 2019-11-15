@@ -2,7 +2,7 @@
 A React native spotify clone 
 
 # Requirements
-* nvm v. 11.10.1
+* nvm v 11.10.1
 * react-native
 * Android or Xcode
 
