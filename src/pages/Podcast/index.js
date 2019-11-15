@@ -55,7 +55,7 @@ class Podcast extends Component {
               <Cover source={{ uri: podcast.cover }} />
               <PodcastTitle>{podcast.title}</PodcastTitle>
               <PlayButton onPress={() => this.handlePlay()}>
-                <PlayButtonText>REPRODUZIR</PlayButtonText>
+                <PlayButtonText>Play</PlayButtonText>
               </PlayButton>
             </PodcastDetails>
           )}
